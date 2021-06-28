@@ -11,7 +11,9 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src="imgReadme/cover.svg" />
+    <img alt="Letmeask" src="imgReadme/home.png" />
+    <img alt="Letmeask" src="imgReadme/user-room.png" />
+    <img alt="Letmeask" src="imgReadme/admin-room.png" />
 </h1>
 
 <br>
