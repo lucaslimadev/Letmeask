@@ -48,4 +48,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Projeto desenvolvido por Lucas Lima durante a #NLW 06 da Rocketseat.
+Projeto desenvolvido por com mentoria de Diego Fernandes durante a #NLW 06 da Rocketseat.
